@@ -3,7 +3,7 @@
 #! /usr/bin/env python
 
 
-#bicoinamical
+#@bicoinamical 2023 - Credit to @ottosch_ for parser
 
 import sys, os, base64, requests
 from bs4 import BeautifulSoup
